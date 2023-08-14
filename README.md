@@ -8,10 +8,9 @@ Visit the live Natours Landing Page Design: [https://sharanupatil8.github.io/Nat
 
 Welcome to the Natours Landing Page Design project repository! This project showcases a visually appealing and responsive landing page design for a fictional nature tours and travel company called Natours.
 
-![Natours Landing Page](![2](https://github.com/Sharanupatil8/Natours-landing-page-design/assets/93566630/69e3a67a-aa2f-4aa9-9df2-22dfabd39ba1)
-![Uploading 1.png…]()
-!)
-)
+![Natour![1](https://github.com/Sharanupatil8/Natours-landing-page-design/assets/93566630/ba3af696-a55a-4289-9583-b556651fb09a)
+s Landing Page](![2](https://github.com/Sharanupatil8/Natours-landing-page-design/assets/93566630/69e3a67a-aa2f-4aa9-9df2-22dfabd39ba1)
+
 
 ## Technologies Used
 
